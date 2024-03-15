@@ -1,0 +1,22 @@
+.nav-list li {
+  list-style-type: none;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.nav-list a {
+  text-decoration: none;
+  color: #000;
+  font-size: 2em;
+  margin-right: 1em;
+}
+.nav-list {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: burlywood;
+  margin: 0;
+}
+.main {
+  background-image: url(/Assets/Image/shield.jpg);
+  background-repeat: no-repeat;
+  height: 100vh;
+}
